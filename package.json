@@ -1,7 +1,7 @@
 {
-  "name": "oxtech-portal-apis",
+  "name": "serverless-portal-apis",
   "version": "1.0.0",
-  "description": "Project for oxtech backend APIs",
+  "description": "Project for serverless backend APIs",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/OXIT-LLC/oxtech-portal-apis.git"
   },
-  "author": "Oxtech Backend Team",
+  "author": "enayat",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OXIT-LLC/oxtech-portal-apis/issues"
